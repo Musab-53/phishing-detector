@@ -2,13 +2,6 @@
 
 Ein Python-Projekt zur Erkennung von Phishing-E-Mails mit Machine Learning.
 
-## Technologien
-- Python
-- pandas
-- scikit-learn
-- TF-IDF
-- Logistic Regression
-
 ## Funktion
 Das Modell analysiert den Inhalt von E-Mails und klassifiziert sie als:
 - Phishing
